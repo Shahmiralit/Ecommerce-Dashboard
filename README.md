@@ -60,3 +60,5 @@ Profitability: June and July show negative profit – potential need for cost co
 Customer Targeting: Top customers identified can be approached for loyalty programs.
 
 Payment Preferences: COD dominates, which may indicate trust issues with online payment; promoting digital payments could reduce COD-related logistics costs.
+
+
