@@ -1,4 +1,4 @@
-# Ecommerce-Dashboard
+# Ecommerce sales Dashboard
 
 1. Project Title / Headline:
  E-commerce Sales Dashboard – A visually interactive Power BI report that tracks sales, profit, and customer purchasing patterns across states, categories, andtime periods.
