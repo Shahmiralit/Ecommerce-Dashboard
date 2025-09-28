@@ -8,13 +8,14 @@
 
 4. Tech Stack:
  The dashboard was built using the following tools and technologies:
+
 📊 Power BI Desktop – For data modeling and interactive visualization.
 📂 Power Query – For cleaning, filtering, and shaping raw sales data.
 🧠 DAX (Data Analysis Expressions) – For calculated measures like AOV (Average Order Value), profit margins, and category-wise aggregations.
 📝 Data Modeling – Established relationships between customers, sales, and product categories for dynamic cross-filtering.
 📁 File Format – .pbix (Power BI file) for development and .png for presentation snapshot.
 
-5. Data Source:
+6. Data Source:
  Source: Company’s internal e-commerce transaction records.
  Data includes:
  State-wise sales and profit data
@@ -23,7 +24,7 @@
  Payment methods used
  Monthly sales and profit details
 
-6. Features / Highlights:
+7. Features / Highlights:
  • Business Problem:
 
  Managers needed a quick way to track sales, profit, and customer behavior across states and categories, to find growth opportunities and optimize marketing  campaigns.
