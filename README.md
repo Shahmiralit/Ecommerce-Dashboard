@@ -10,9 +10,13 @@
  The dashboard was built using the following tools and technologies:
 
 📊 Power BI Desktop – For data modeling and interactive visualization.
+
 📂 Power Query – For cleaning, filtering, and shaping raw sales data.
+
 🧠 DAX (Data Analysis Expressions) – For calculated measures like AOV (Average Order Value), profit margins, and category-wise aggregations.
+
 📝 Data Modeling – Established relationships between customers, sales, and product categories for dynamic cross-filtering.
+
 📁 File Format – .pbix (Power BI file) for development and .png for presentation snapshot.
 
 6. Data Source:
